@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Dominik]
+# Hi there 👋, I'm Dominik
 
 ![GitHub followers](https://img.shields.io/github/followers/Dospalko?label=Followers)
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-id/)
@@ -42,9 +42,9 @@ I'm a passionate software developer who loves coding, open-source, and all thing
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/your-github-username](https://github.com/Dospalko)
-- LinkedIn: [linkedin.com/in/your-linkedin-id](https://linkedin.com/in/dominik-paľo-a61801205)
-- E-mail: your-email@example.com
+- GitHub:(https://github.com/Dospalko)
+- LinkedIn:(https://linkedin.com/in/dominik-paľo-a61801205)
+- Portfolio: (
 
 ---
 
