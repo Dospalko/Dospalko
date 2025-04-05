@@ -1,6 +1,3 @@
-Here is an improved version of your `README.md` file:
-
-
 # Hi there 👋, I'm Dominik
 
 Welcome to my GitHub profile! I am a fullstack AI developer passionate about coding and creating innovative AI solutions.
