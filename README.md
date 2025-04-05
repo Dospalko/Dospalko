@@ -8,7 +8,7 @@
 <!-- Animovaný obrázok zobrazený napravo -->
 <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="AI in Action"/>
 
-I'm a fullstack AI developer with a love for coding. I work as an **AI Developer** at Telekom, where I create and train AI models, prepare data, and develop innovative agentic solutions. I'm always exploring new technologies and techniques to bring creative and efficient solutions to life.
+I'm a fullstack AI developer with a love for coding. I work as an **AI Developer**, where I create and train AI models, prepare data, and develop innovative agentic solutions. I'm always exploring new technologies and techniques to bring creative and efficient solutions to life.
 
 🌱 **Currently Learning**: Feature extreaction with RAG and Agentic Approach 
 🔭 **Working On**: My diploma thesis about agentic systems and LSTM , LLM Agentic 
