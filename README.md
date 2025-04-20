@@ -51,6 +51,6 @@ I'm a fullstack AI developer with a love for coding. I work as an **AI Developer
 
 - **GitHub**: [Dospalko](https://github.com/Dospalko)
 - **LinkedIn**: [Dominik Paľo](https://linkedin.com/in/dominik-paľo-a61801205)
-- **Portfolio**: [My Portfolio](#) <!-- Replace with your URL -->
+- **Portfolio**: [My Portfolio](https://dospalko.vercel.app) 
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech!
