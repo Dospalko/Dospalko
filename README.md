@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dominik  
+# Hi there, I'm Dominik  
 
 Welcome to my GitHub profile!  
 I’m a **Fullstack AI & GenAI Developer** who loves building intelligent systems, experimenting with cutting-edge models, and turning ideas into working apps.  
